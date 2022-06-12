@@ -7,10 +7,23 @@
 
 <h3>About:</h3>
 
+Python and Statistics for Financial Analysis is a course offered by The Honk Kong University of Sciences and Technologies through the coursera platform.
 
+The goal of the course is to teach how to:
 
+- Import, pre-process, save and visualize financial data into pandas Dataframe;
+- Manipulate the existing financial data by generating new variables using multiple columns;
+- Recall and apply the important statistical concepts (random variable, frequency, distribution, population and sample, confidence interval, linear regression, etc. ) into financial contexts;
+- Build a trading model using multiple linear regression model;
+- Evaluate the performance of the trading model using different investment indicators.
+
+Course link - (Python and Statistics for Financial Analysis)[https://www.coursera.org/learn/python-statistics-financial-analysis?]
+Instructor - (Xuhu Wan)[https://www.coursera.org/instructor/xuhuwan]
 ---
 
-- []() 
+- [Week 01 - Visualizing and Munging Stock Data]()
+- [Week 02 - Random Variables and Distribution]()
+- [Week 03 - Sampling and Inference]()
+- [Week 04 - Linear Regression Models for Financial Analysis]()
 
 ---
