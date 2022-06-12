@@ -19,6 +19,7 @@ The goal of the course is to teach how to:
 
 Course link - [Python and Statistics for Financial Analysis](https://www.coursera.org/learn/python-statistics-financial-analysis?)
 Instructor - [Xuhu Wan](https://www.coursera.org/instructor/xuhuwan)
+
 ---
 
 - [Week 01 - Visualizing and Munging Stock Data]()
