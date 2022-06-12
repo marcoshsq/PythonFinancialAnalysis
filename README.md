@@ -17,8 +17,8 @@ The goal of the course is to teach how to:
 - Build a trading model using multiple linear regression model;
 - Evaluate the performance of the trading model using different investment indicators.
 
-Course link - (Python and Statistics for Financial Analysis)[https://www.coursera.org/learn/python-statistics-financial-analysis?]
-Instructor - (Xuhu Wan)[https://www.coursera.org/instructor/xuhuwan]
+Course link - [Python and Statistics for Financial Analysis](https://www.coursera.org/learn/python-statistics-financial-analysis?)
+Instructor - [Xuhu Wan](https://www.coursera.org/instructor/xuhuwan)
 ---
 
 - [Week 01 - Visualizing and Munging Stock Data]()
