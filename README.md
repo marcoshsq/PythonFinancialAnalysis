@@ -16,6 +16,8 @@ The goal of the course is to teach how to use Python for:
     - Recall and apply the important statistical concepts into financial contexts;
     - Build a trading model using multiple linear regression model;
     - Evaluate the performance of the trading model using different investment indicators.
+    
+This repository contains the Jupyter notebooks with the assignments, exercises, and codes written during the specialization.
 
 Course link - [Python and Statistics for Financial Analysis](https://www.coursera.org/learn/python-statistics-financial-analysis?)
 
