@@ -26,7 +26,7 @@ Instructor - [Xuhu Wan](https://www.coursera.org/instructor/xuhuwan)
 ---
 
 - [Week 01 - Visualizing and Munging Stock Data](https://github.com/marcoshsq/PythonFinancialAnalysis/tree/main/Week%2001%20-%20Visualizing%20and%20Munging%20Stock%20Data)
-- [Week 02 - Random Variables and Distribution]()
+- [Week 02 - Random Variables and Distribution](https://github.com/marcoshsq/PythonFinancialAnalysis/tree/main/Week%2002%20-%20Random%20Variables%20and%20Distribution)
 - [Week 03 - Sampling and Inference]()
 - [Week 04 - Linear Regression Models for Financial Analysis]()
 
