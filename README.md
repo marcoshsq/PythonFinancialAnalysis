@@ -35,7 +35,7 @@ Instructor - [Xuhu Wan](https://www.coursera.org/instructor/xuhuwan)
 ---
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/PythonFinancialAnalysis">
-    <img src="https://github.com/marcoshsq/PythonFinancialAnalysis/blob/main/Images/Python%20Financial%20Analysis%20Certificate.jpg" alt="Developer Roadmap" width="600" height="">
+  <a href="https://www.coursera.org/account/accomplishments/verify/8PFSXM3AYQ87">
+    <img src="https://github.com/marcoshsq/PythonFinancialAnalysis/blob/main/Images/Python%20Financial%20Analysis%20Certificate.jpg" alt="Developer Roadmap" width="400" height="">
   </a>
 </p>
