@@ -25,7 +25,7 @@ Instructor - [Xuhu Wan](https://www.coursera.org/instructor/xuhuwan)
 
 ---
 
-### Folders
+### Folders:
 
 - [Week 01 - Visualizing and Munging Stock Data](https://github.com/marcoshsq/PythonFinancialAnalysis/tree/main/01.%20Visualizing%20and%20Munging%20Stock%20Data)
 - [Week 02 - Random Variables and Distribution](https://github.com/marcoshsq/PythonFinancialAnalysis/tree/main/02.%20Random%20Variables%20and%20Distribution)
